@@ -31,7 +31,7 @@ public class SeckillController {
     }
 
     /**
-     * 进入秒杀列表.11
+     * 进入秒杀列表.1111
      *
      * @param model 模型数据，里面放置有秒杀商品的信息
      * @return 秒杀列表详情页面
